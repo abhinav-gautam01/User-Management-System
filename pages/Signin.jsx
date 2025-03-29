@@ -6,7 +6,7 @@ import { SmallHeading } from "../components/Smallheading"
 import { Subheading } from "../components/Subheading"
 // import axios from "axios";
 import { useState } from "react"
-import myImage from "/Users/abhinavgautam/Desktop/project/frontend/images/logoblack.png";
+import myImage from "../images/logoblack.png";
 
 export const Signin= ()=>{
     const navigate = useNavigate();
