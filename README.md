@@ -45,6 +45,16 @@ npm run build
 This will create an optimized production build in the `dist/` directory.
 
 
+## Login Credentials
+Email: 
+```
+eve.holt@reqres.in
+```
+
+Password:
+```
+ cityslicka
+```
 
 
 
