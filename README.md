@@ -13,6 +13,7 @@ This is a **User Management System** built using React, Vite, TailwindCSS, React
 - Styled with TailwindCSS
 - API calls using Axios
 - Routing with React Router
+-client-side search and filtering on the users' list.
 
 ## Installation & Setup
 
